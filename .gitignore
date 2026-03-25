@@ -1,0 +1,33 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.lock
+
+# Build outputs
+build/
+*.apk
+*.aab
+*.dex
+
+# Android
+android/.gradle/
+android/.cxx/
+android/app/build/
+android/build/
+*.iml
+
+# IDE
+.idea/
+*.ipr
+*.iws
+.vscode/
+.cursor/
+
+# Misc
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
